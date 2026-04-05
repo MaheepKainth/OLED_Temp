@@ -7,7 +7,7 @@ inilib_deps =
   adafruit/Adafruit SSD1306
   adafruit/Adafruit GFX Library
   adafruit/DHT sensor library
-How It Works
+How It Works 
 
 Reads DHT11 every 2 seconds using non-blocking millis() timing
 Renders temperature (°C) and humidity (%) on the OLED alongside a custom thermometer bitmap
